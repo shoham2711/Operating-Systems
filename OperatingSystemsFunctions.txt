@@ -1,1 +1,2 @@
 The operating system uses password protection to protect user data and similar other techniques. it also prevents unauthorized access to programs and user data.
+Operating system constantly monitors the system to detect errors and avoid the malfunctioning of computer system.
