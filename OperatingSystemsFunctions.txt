@@ -1,0 +1,1 @@
+The operating system uses password protection to protect user data and similar other techniques. it also prevents unauthorized access to programs and user data.
