@@ -1,2 +1,3 @@
 The operating system uses password protection to protect user data and similar other techniques. it also prevents unauthorized access to programs and user data.
 Operating system constantly monitors the system to detect errors and avoid the malfunctioning of computer system
+Operating system Keeps track of time and resources used by various tasks and users, this information can be used to track resource usage for a particular user or group of user.
